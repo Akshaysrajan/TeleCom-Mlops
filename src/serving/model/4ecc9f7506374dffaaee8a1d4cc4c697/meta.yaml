@@ -1,0 +1,15 @@
+artifact_uri: file:///home/akshay/Desktop/Telco-Customer-Churn-ML/mlruns/952049124698160865/4ecc9f7506374dffaaee8a1d4cc4c697/artifacts
+end_time: 1774767547335
+entry_point_name: ''
+experiment_id: '952049124698160865'
+lifecycle_stage: active
+run_id: 4ecc9f7506374dffaaee8a1d4cc4c697
+run_name: upset-deer-257
+run_uuid: 4ecc9f7506374dffaaee8a1d4cc4c697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774767543413
+status: 3
+tags: []
+user_id: akshay

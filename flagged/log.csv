@@ -1,0 +1,5 @@
+Gender,Partner,Dependents,Phone Service,Multiple Lines,Internet Service,Online Security,Online Backup,Device Protection,Tech Support,Streaming TV,Streaming Movies,Contract,Paperless Billing,Payment Method,Tenure (months),Monthly Charges ($),Total Charges ($),Churn Prediction,flag,username,timestamp
+Male,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,1,85,85,,,,2026-03-29 12:42:17.082925
+Male,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,1,85,85,Likely to churn,,,2026-03-29 12:42:25.489266
+Male,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,1,85,85,Likely to churn,,,2026-03-29 12:42:32.311381
+Male,No,No,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,1,85,85,Likely to churn,,,2026-03-29 12:45:44.482268
