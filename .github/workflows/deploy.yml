@@ -46,9 +46,6 @@ jobs:
     name: Deploy to AWS ECS
     runs-on: ubuntu-latest
     needs: build-and-push  # Only runs if build-and-push succeeds
-    # Remove this condition once AWS is set up
-    if: ${{ vars.AWS_CONFIGURED == 'true' }}
-
     steps:
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
