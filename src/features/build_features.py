@@ -105,3 +105,6 @@ def build_features(df: pd.DataFrame, target_col: str = "Churn") -> pd.DataFrame:
     print(f"✅ Feature engineering complete: {df.shape[1]} final features")
     return df
 
+
+
+#hi
